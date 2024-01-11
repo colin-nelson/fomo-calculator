@@ -1,0 +1,2 @@
+# fomo-calculator
+Calculate your
