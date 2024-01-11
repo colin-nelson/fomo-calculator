@@ -1,2 +1,2 @@
 # fomo-calculator
-Calculate your
+Calculate your FOMO!
